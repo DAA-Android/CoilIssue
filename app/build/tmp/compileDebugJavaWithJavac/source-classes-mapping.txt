@@ -1,0 +1,2 @@
+com/daa/coilissueexample/BuildConfig.java
+ com.daa.coilissueexample.BuildConfig

@@ -1,0 +1,102 @@
+[
+    {
+        "merged": "C:\\Users\\Daniel\\AndroidStudioProjects\\CoilIssueExample\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Daniel\\AndroidStudioProjects\\CoilIssueExample\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Daniel\\AndroidStudioProjects\\CoilIssueExample\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_example_100.png.flat",
+        "source": "C:\\Users\\Daniel\\AndroidStudioProjects\\CoilIssueExample\\app\\src\\main\\res\\drawable-xhdpi\\ic_example_100.png"
+    },
+    {
+        "merged": "C:\\Users\\Daniel\\AndroidStudioProjects\\CoilIssueExample\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Daniel\\AndroidStudioProjects\\CoilIssueExample\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Daniel\\AndroidStudioProjects\\CoilIssueExample\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_example_100.png.flat",
+        "source": "C:\\Users\\Daniel\\AndroidStudioProjects\\CoilIssueExample\\app\\src\\main\\res\\drawable-hdpi\\ic_example_100.png"
+    },
+    {
+        "merged": "C:\\Users\\Daniel\\AndroidStudioProjects\\CoilIssueExample\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_example_100.png.flat",
+        "source": "C:\\Users\\Daniel\\AndroidStudioProjects\\CoilIssueExample\\app\\src\\main\\res\\drawable-mdpi\\ic_example_100.png"
+    },
+    {
+        "merged": "C:\\Users\\Daniel\\AndroidStudioProjects\\CoilIssueExample\\app\\build\\intermediates\\res\\merged\\debug\\drawable-night-hdpi_ic_example_100.png.flat",
+        "source": "C:\\Users\\Daniel\\AndroidStudioProjects\\CoilIssueExample\\app\\src\\main\\res\\drawable-night-hdpi\\ic_example_100.png"
+    },
+    {
+        "merged": "C:\\Users\\Daniel\\AndroidStudioProjects\\CoilIssueExample\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_example_100.png.flat",
+        "source": "C:\\Users\\Daniel\\AndroidStudioProjects\\CoilIssueExample\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_example_100.png"
+    },
+    {
+        "merged": "C:\\Users\\Daniel\\AndroidStudioProjects\\CoilIssueExample\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Daniel\\AndroidStudioProjects\\CoilIssueExample\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Daniel\\AndroidStudioProjects\\CoilIssueExample\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_example_100.png.flat",
+        "source": "C:\\Users\\Daniel\\AndroidStudioProjects\\CoilIssueExample\\app\\src\\main\\res\\drawable-xxhdpi\\ic_example_100.png"
+    },
+    {
+        "merged": "C:\\Users\\Daniel\\AndroidStudioProjects\\CoilIssueExample\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Daniel\\AndroidStudioProjects\\CoilIssueExample\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Daniel\\AndroidStudioProjects\\CoilIssueExample\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Daniel\\AndroidStudioProjects\\CoilIssueExample\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Daniel\\AndroidStudioProjects\\CoilIssueExample\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Daniel\\AndroidStudioProjects\\CoilIssueExample\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Daniel\\AndroidStudioProjects\\CoilIssueExample\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Daniel\\AndroidStudioProjects\\CoilIssueExample\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Daniel\\AndroidStudioProjects\\CoilIssueExample\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Daniel\\AndroidStudioProjects\\CoilIssueExample\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Daniel\\AndroidStudioProjects\\CoilIssueExample\\app\\build\\intermediates\\res\\merged\\debug\\drawable-night-xxxhdpi_ic_example_100.png.flat",
+        "source": "C:\\Users\\Daniel\\AndroidStudioProjects\\CoilIssueExample\\app\\src\\main\\res\\drawable-night-xxxhdpi\\ic_example_100.png"
+    },
+    {
+        "merged": "C:\\Users\\Daniel\\AndroidStudioProjects\\CoilIssueExample\\app\\build\\intermediates\\res\\merged\\debug\\drawable-night-mdpi_ic_example_100.png.flat",
+        "source": "C:\\Users\\Daniel\\AndroidStudioProjects\\CoilIssueExample\\app\\src\\main\\res\\drawable-night-mdpi\\ic_example_100.png"
+    },
+    {
+        "merged": "C:\\Users\\Daniel\\AndroidStudioProjects\\CoilIssueExample\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Daniel\\AndroidStudioProjects\\CoilIssueExample\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Daniel\\AndroidStudioProjects\\CoilIssueExample\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Daniel\\AndroidStudioProjects\\CoilIssueExample\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Daniel\\AndroidStudioProjects\\CoilIssueExample\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\Daniel\\AndroidStudioProjects\\CoilIssueExample\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Daniel\\AndroidStudioProjects\\CoilIssueExample\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Daniel\\AndroidStudioProjects\\CoilIssueExample\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Daniel\\AndroidStudioProjects\\CoilIssueExample\\app\\build\\intermediates\\res\\merged\\debug\\drawable-night-xxhdpi_ic_example_100.png.flat",
+        "source": "C:\\Users\\Daniel\\AndroidStudioProjects\\CoilIssueExample\\app\\src\\main\\res\\drawable-night-xxhdpi\\ic_example_100.png"
+    },
+    {
+        "merged": "C:\\Users\\Daniel\\AndroidStudioProjects\\CoilIssueExample\\app\\build\\intermediates\\res\\merged\\debug\\drawable-night-xhdpi_ic_example_100.png.flat",
+        "source": "C:\\Users\\Daniel\\AndroidStudioProjects\\CoilIssueExample\\app\\src\\main\\res\\drawable-night-xhdpi\\ic_example_100.png"
+    },
+    {
+        "merged": "C:\\Users\\Daniel\\AndroidStudioProjects\\CoilIssueExample\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Daniel\\AndroidStudioProjects\\CoilIssueExample\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Daniel\\AndroidStudioProjects\\CoilIssueExample\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Daniel\\AndroidStudioProjects\\CoilIssueExample\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Daniel\\AndroidStudioProjects\\CoilIssueExample\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Daniel\\AndroidStudioProjects\\CoilIssueExample\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    }
+]
